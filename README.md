@@ -42,9 +42,9 @@ I am a developer who is passionate about use my knowledge in real world cases, n
  <summary> 😇 <b>My Github Stats</b>: </summary>
  <br>
  <p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=julius-cell&show_icons=true&theme=tokyonight&line_height=27">
+   <img src = "https://github-stats-extended.vercel.app/api?username=julius-cell&show_icons=true&theme=tokyonight&line_height=27">
  </p>
   <p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=julius-cell&hide=css,java,html&theme=tokyonight">
+   <img src = "https://github-stats-extended.vercel.app/api/top-langs/?username=julius-cell&hide=css,java,html&theme=tokyonight">
  </p>
 </details>
